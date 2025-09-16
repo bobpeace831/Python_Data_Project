@@ -31,7 +31,8 @@ Git & GitHub: Essential for version control and sharing my Python code and analy
 To identify the most demanded skills for the top 3 data roles, I filtered out those positions and got the top 5 skills for each roles in the US market. This query underscores the most popular job titles as well as the most requested skills.
 
 View my notebook with detailed steps here:
-[2_Skill_Demand.ipynb](project\2_Project_Skill_Demand.ipynb)
+![2_Skill_Demand.ipynb](project\2_Project_Skill_Demand.ipynb)
+
 
 ### Visualize Data
 
