@@ -49,7 +49,7 @@ for i, job_title in enumerate(job_titles):
 plt.show()
 ```
 ### Results
-![Visualization of Top Skills](project\skill_demand.png)
+![project/skill_demand.png)
 
 ### Insights
 1. SQL are highly demanded and versitile skills across all three roles.
